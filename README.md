@@ -28,7 +28,7 @@ Repository of Computer Program developed in Python for our Subject ITCS102 - Fir
 - Activity 24: I learned how to define functions with def and import everything from another file using from filename import *. [activity24.py](activity24.py)
 - Activity 25: Import functions from other files and use a while-loop menu to run different activities based on the user’s input. [activity25.py](activity25.py)
 - Activity 26: Creating a dictionary in Python like bros = {'py': 'java', 'perl': 'c++'}. [activity26.py](activity26.py)
-- Activity 27: Create and update a dictionary dynamically, print its contents, and search for specific keys using functions and a user input loop. [activity27.py](activity27.py)
+- Activity 27: Create and update a dictionary , printing its contents, and search for specific keys using functions and a user input loop. [activity27.py](activity27.py)
 - Activity 28: Installing a Python Snake game teaches you Python basics, using pygame, game loops, and handling user input. [activity28.py](activity28.py)
 
 
