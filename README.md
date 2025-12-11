@@ -25,11 +25,11 @@ Repository of Computer Program developed in Python for our Subject ITCS102 - Fir
 - Activity 21: Use a while loop to simulate washing continuation with user confirmation. [activity21.py](activity21.py)
 - Activity 22: Guess-the-number game using while loop and random. [activity22.py](activity22.py)
 - Activity 23: Perform list operations (append, pop, remove, insert, sort, iterate, slice). [activity23.py](activity23.py)
-- Activity 24: I learned how to define functions with def and import everything from another file using from filename import *. [activity24.py](activity24.py)
-- Activity 25: Import functions from other files and use a while-loop menu to run different activities based on the user’s input. [activity25.py](activity25.py)
+- Activity 24: define functions with def and import using from filename import *. [activity24.py](activity24.py)
+- Activity 25: Import functions from other files and while-loop menu to run different activities. [activity25.py](activity25.py)
 - Activity 26: Creating a dictionary in Python like bros = {'py': 'java', 'perl': 'c++'}. [activity26.py](activity26.py)
-- Activity 27: Create and update a dictionary , printing its contents and search for specific keys using functions and a user input. [activity27.py](activity27.py)
-- Activity 28: Installing a Python Snake game teaches you Python basics, using pygame, game loops, and handling user input. [activity28.py](activity28.py)
+- Activity 27: Create and update a dictionary. [activity27.py](activity27.py)
+- Activity 28: Installing pygame and running snake_game() . [activity28.py](activity28.py)
 
 
 
