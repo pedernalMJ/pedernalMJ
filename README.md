@@ -4,16 +4,16 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Python, HTML/CSS, and basic programming**
+- 🌱 I’m currently learning **Python and basic programming**
 - 💡 I love solving problems and building small projects
-- 📫 How to reach me: **your email here (optional)**
+
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedernalmj&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedernalMJ&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ### 📈 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pedernalmj&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=pedernalMJ&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 ### 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedernalmj&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedernalMJ&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 
 ### ❤️ Thanks for visiting!
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedernalmj&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pedernalMJ&color=blueviolet" alt="Profile Views" />
 </p>
 
 
